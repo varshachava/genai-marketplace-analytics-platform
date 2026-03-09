@@ -1,0 +1,9 @@
+task_id,region,task_type,worker_id,completion_time,task_cost,quality_score
+1,US,labeling,101,4,1.2,0.92
+2,US,labeling,102,5,1.3,0.91
+3,EU,annotation,201,6,1.5,0.94
+4,EU,annotation,202,7,1.7,0.93
+5,Asia,labeling,301,3,1.1,0.95
+6,Asia,annotation,302,5,1.4,0.92
+7,US,labeling,103,4,1.2,0.90
+8,EU,annotation,203,6,1.6,0.91
